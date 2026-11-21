@@ -69,4 +69,4 @@ and scoring approach will be evaluated through experiments.
 
 ## Presentation
 
-[View GreenScore 2.0 Literature Review Presentation](presentations/GreenScore_2.0_Literature_Review.pdf)
+[View GreenScore 2.0 Literature Review Presentation](GreenScore_2.0_Literature_Review.pdf)
